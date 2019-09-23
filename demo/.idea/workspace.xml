@@ -2,9 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12ef3428-846e-4dca-aba1-1c3f0033d40f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vagrant.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/backup.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/demo13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/demo13a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frompy/demo14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frompy/demo15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oo/demo16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oo/demo17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oo/demo18.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo12.py" beforeDir="false" afterPath="$PROJECT_DIR$/demo12.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic/demo1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo10.py" beforeDir="false" afterPath="$PROJECT_DIR$/container/demo10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo11.py" beforeDir="false" afterPath="$PROJECT_DIR$/frompy/demo11.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo12.py" beforeDir="false" afterPath="$PROJECT_DIR$/func/demo12.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo2.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic/demo2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo2a.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic/demo2a.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo3.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic/demo3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo4.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic/demo4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo5.py" beforeDir="false" afterPath="$PROJECT_DIR$/container/demo5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo6.py" beforeDir="false" afterPath="$PROJECT_DIR$/container/demo6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo7.py" beforeDir="false" afterPath="$PROJECT_DIR$/container/demo7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo8.py" beforeDir="false" afterPath="$PROJECT_DIR$/container/demo8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo9.py" beforeDir="false" afterPath="$PROJECT_DIR$/container/demo9.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,13 +44,16 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1QzZNtA8MQwEfemN02Iz3hTwTUM" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="D:/Anaconda3/python.exe" />
+    <property name="last_opened_file_path" value="D:/Anaconda3/Scripts/yapf.exe" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Python" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -38,6 +62,15 @@
         <option name="myModuleName" value="demo" />
       </console-settings>
     </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Github\python\demo\oo" />
+      <recent name="E:\Github\python\demo\file" />
+      <recent name="E:\Github\python\demo\func" />
+      <recent name="E:\Github\python\demo\frompy" />
+      <recent name="E:\Github\python\demo\container" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -51,7 +84,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.demo12">
+  <component name="RunManager" selected="Python.demo16">
     <configuration name="demo10" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="demo" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -60,12 +93,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/container" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo10.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/container/demo10.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -74,7 +107,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="demo11" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="demo15" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="demo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -87,7 +120,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo11.py" />
+      <option name="SCRIPT_NAME" value="E:\Github\python\demo\frompy\demo15.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -96,7 +129,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="demo12" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="demo16" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="demo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -104,12 +137,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/oo" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo12.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/oo/demo16.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -118,7 +151,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="demo8" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="demo17" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="demo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -126,12 +159,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/oo" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo8.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/oo/demo17.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -140,7 +173,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="demo9" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="demo18" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="demo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -148,12 +181,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/oo" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo9.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/oo/demo18.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -162,13 +195,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Python.demo15" />
+      <item itemvalue="Python.demo16" />
+      <item itemvalue="Python.demo10" />
+      <item itemvalue="Python.demo17" />
+      <item itemvalue="Python.demo18" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.demo12" />
-        <item itemvalue="Python.demo11" />
+        <item itemvalue="Python.demo16" />
+        <item itemvalue="Python.demo18" />
+        <item itemvalue="Python.demo17" />
         <item itemvalue="Python.demo10" />
-        <item itemvalue="Python.demo9" />
-        <item itemvalue="Python.demo8" />
+        <item itemvalue="Python.demo15" />
       </list>
     </recent_temporary>
   </component>
@@ -185,7 +225,11 @@
       <workItem from="1568775357211" duration="158000" />
       <workItem from="1568775546272" duration="11665000" />
       <workItem from="1568853534357" duration="21378000" />
-      <workItem from="1568940506091" duration="2512000" />
+      <workItem from="1568940506091" duration="11881000" />
+      <workItem from="1568961699137" duration="2659000" />
+      <workItem from="1568986031017" duration="5377000" />
+      <workItem from="1568993150736" duration="410000" />
+      <workItem from="1569217553755" duration="9338000" />
     </task>
     <servers />
   </component>
@@ -197,25 +241,41 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="YapfSettings">
+    <option name="executablePath" value="D:\Anaconda3\Scripts\yapf.exe" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/demo$demo14.coverage" NAME="demo14 Coverage Results" MODIFIED="1568960654229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/demo$demo17.coverage" NAME="demo17 Coverage Results" MODIFIED="1569225342970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oo" />
     <SUITE FILE_PATH="coverage/demo$demo4.coverage" NAME="demo4 Coverage Results" MODIFIED="1568791862015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/demo$demo7.coverage" NAME="demo7 Coverage Results" MODIFIED="1568857695919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/demo$demo15.coverage" NAME="demo15 Coverage Results" MODIFIED="1568962341880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/demo$demo2.coverage" NAME="demo2 Coverage Results" MODIFIED="1568791628083" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/demo$demo14__1_.coverage" NAME="demo14 (1) Coverage Results" MODIFIED="1568990674449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/frompy" />
     <SUITE FILE_PATH="coverage/demo$demo2a.coverage" NAME="demo2a Coverage Results" MODIFIED="1568791475453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/demo$demo18.coverage" NAME="demo18 Coverage Results" MODIFIED="1569226937486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oo" />
+    <SUITE FILE_PATH="coverage/demo$demo13a.coverage" NAME="demo13a Coverage Results" MODIFIED="1568959054445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/demo$demo11.coverage" NAME="demo11 Coverage Results" MODIFIED="1568876939915" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/demo$demo9.coverage" NAME="demo9 Coverage Results" MODIFIED="1568860428071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/demo$demo3.coverage" NAME="demo3 Coverage Results" MODIFIED="1568788204176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/demo$demo16.coverage" NAME="demo16 Coverage Results" MODIFIED="1569228882131" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oo" />
     <SUITE FILE_PATH="coverage/demo$demo6.coverage" NAME="demo6 Coverage Results" MODIFIED="1568854777495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/demo$demo10.coverage" NAME="demo10 Coverage Results" MODIFIED="1568873306375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/demo$demo10.coverage" NAME="demo10 Coverage Results" MODIFIED="1568990364323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/container" />
     <SUITE FILE_PATH="coverage/demo$demo12.coverage" NAME="demo12 Coverage Results" MODIFIED="1568943226143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/demo$demo8.coverage" NAME="demo8 Coverage Results" MODIFIED="1568858969168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/demo$demo5.coverage" NAME="demo5 Coverage Results" MODIFIED="1568794473512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/demo$demo1.coverage" NAME="demo1 Coverage Results" MODIFIED="1568786669702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/demo$demo13.coverage" NAME="demo13 Coverage Results" MODIFIED="1568958975060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

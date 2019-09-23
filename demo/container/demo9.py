@@ -14,6 +14,5 @@ print(set)
 dict = {x: x * x for x in list3}
 print(dict)
 print(dict.items())
-print(sorted(dict.items(),key=lambda item:item[0])) # 按key排序
-print(sorted(dict.items(),key=lambda item:item[1])) # 按value排序
-
+print(sorted(dict.items(), key=lambda item: item[0]))  # 按key排序
+print(sorted(dict.items(), key=lambda item: item[1]))  # 按value排序
