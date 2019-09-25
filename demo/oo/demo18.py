@@ -17,7 +17,7 @@ class C(B, A):
         print("C".center(10, "-"))
 
 
-# 多态
+# 多态 鸭子模型
 def print_show(obj):
     obj.show()
 

@@ -1,11 +1,11 @@
 # -*- encoding: utf-8 -*-
 
 i = 1
-sum = 0
+s = 0
 while i < 10:
-    sum += i
+    s += i
     i += 1
-print(sum)
+print(s)
 
 i = 1
 j = 1

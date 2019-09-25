@@ -76,7 +76,7 @@ class Student(object):
 
 s1 = Student("张三", 18, "2000-01-01", "1602")
 print(str(s1))
-s1.age=20
+s1.age = 20
 print(s1.age)
 print(str(s1))
 Student.hello()
