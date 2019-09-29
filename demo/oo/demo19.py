@@ -1,4 +1,5 @@
 # -*- encoding: utf-8 -*-
+from collections.abc import Iterable
 
 
 class BasicClass(object):
@@ -68,3 +69,4 @@ print("__add_:%s" % str(bc))
 print(bc["b"])
 for p in bc:
     print(p)
+print(isinstance(bc,Iterable))

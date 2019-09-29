@@ -2,6 +2,7 @@
 def de(added):
     def dec(func):
         def wrapped(value):
+            print(func.__name__)
             print(added)
             return func(value + added)
 
