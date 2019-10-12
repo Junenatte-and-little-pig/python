@@ -2,17 +2,148 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12ef3428-846e-4dca-aba1-1c3f0033d40f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/basic/demo37.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/demo38.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sjh_city/city.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sjh_city/city_json.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sjh_csv/demo45.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sjh_csv/demo46.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sjh_csv/demo47.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sjh_csv/demo48.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sjh_csv/person1.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sjh_csv/stocks.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sjh_csv/stocks1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sjh_csv/stocks2.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sjh_database/mysqldemo/demo43.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sjh_database/mysqldemo/demo44.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sjh_database/sqlitedemo/demo41.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sjh_database/sqlitedemo/demo42.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sjh_database/sqlitedemo/sqlite.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sjh_frompy/demo39.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sjh_frompy/demo40.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sjh_logging/demo56.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sjh_logging/demo57.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sjh_logging/demo58.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sjh_logging/loghandler.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sjh_mapreduce/mapdemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sjh_mapreduce/mrdemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sjh_mapreduce/reducedemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sjh_mapreduce/words.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sjh_network/tcpclient.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sjh_network/tcpserver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sjh_network/udpclient.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sjh_network/udpserver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sjh_scrapy/demo59.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sjh_scrapy/scrapy_demo/scrapy.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sjh_scrapy/scrapy_demo/scrapy_demo/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sjh_scrapy/scrapy_demo/scrapy_demo/items.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sjh_scrapy/scrapy_demo/scrapy_demo/middlewares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sjh_scrapy/scrapy_demo/scrapy_demo/pipelines.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sjh_scrapy/scrapy_demo/scrapy_demo/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sjh_scrapy/scrapy_demo/scrapy_demo/spiders/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sjh_scrapy/scrapy_demo/scrapy_demo/spiders/spider_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sjh_web/demo49.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sjh_web/demo50.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sjh_web/demo51.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sjh_web/demo52.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sjh_web/demo53.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sjh_web/demo54.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sjh_web/demo55.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sjh_web/geckodriver.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oo/demo19.py" beforeDir="false" afterPath="$PROJECT_DIR$/oo/demo19.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oo/demo36.py" beforeDir="false" afterPath="$PROJECT_DIR$/oo/demo36.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/demo1.py" beforeDir="false" afterPath="$PROJECT_DIR$/sjh_basic/demo1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/demo2.py" beforeDir="false" afterPath="$PROJECT_DIR$/sjh_basic/demo2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/demo2a.py" beforeDir="false" afterPath="$PROJECT_DIR$/sjh_basic/demo2a.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/demo3.py" beforeDir="false" afterPath="$PROJECT_DIR$/sjh_basic/demo3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/demo37.py" beforeDir="false" afterPath="$PROJECT_DIR$/sjh_basic/demo37.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/demo38.py" beforeDir="false" afterPath="$PROJECT_DIR$/sjh_basic/demo38.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/demo4.py" beforeDir="false" afterPath="$PROJECT_DIR$/sjh_basic/demo4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/container/demo10.py" beforeDir="false" afterPath="$PROJECT_DIR$/sjh_container/demo10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/container/demo5.py" beforeDir="false" afterPath="$PROJECT_DIR$/sjh_container/demo5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/container/demo6.py" beforeDir="false" afterPath="$PROJECT_DIR$/sjh_container/demo6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/container/demo7.py" beforeDir="false" afterPath="$PROJECT_DIR$/sjh_container/demo7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/container/demo8.py" beforeDir="false" afterPath="$PROJECT_DIR$/sjh_container/demo8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/container/demo9.py" beforeDir="false" afterPath="$PROJECT_DIR$/sjh_container/demo9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dp/factorymethod.py" beforeDir="false" afterPath="$PROJECT_DIR$/sjh_dp/factorymethod.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dp/simplefactory.py" beforeDir="false" afterPath="$PROJECT_DIR$/sjh_dp/simplefactory.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dp/singleton.py" beforeDir="false" afterPath="$PROJECT_DIR$/sjh_dp/singleton.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exception/demo20.py" beforeDir="false" afterPath="$PROJECT_DIR$/sjh_exception/demo20.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exception/demo21.py" beforeDir="false" afterPath="$PROJECT_DIR$/sjh_exception/demo21.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/file/backup.txt" beforeDir="false" afterPath="$PROJECT_DIR$/sjh_file/backup.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/file/demo13.py" beforeDir="false" afterPath="$PROJECT_DIR$/sjh_file/demo13.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/file/demo13a.py" beforeDir="false" afterPath="$PROJECT_DIR$/sjh_file/demo13a.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/file/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/sjh_file/test.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frompy/demo11.py" beforeDir="false" afterPath="$PROJECT_DIR$/sjh_frompy/demo11.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frompy/demo14.py" beforeDir="false" afterPath="$PROJECT_DIR$/sjh_frompy/demo14.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frompy/demo15.py" beforeDir="false" afterPath="$PROJECT_DIR$/sjh_frompy/demo15.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frompy/demo25.py" beforeDir="false" afterPath="$PROJECT_DIR$/sjh_frompy/demo25.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frompy/demo26.py" beforeDir="false" afterPath="$PROJECT_DIR$/sjh_frompy/demo26.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frompy/demo27.py" beforeDir="false" afterPath="$PROJECT_DIR$/sjh_frompy/demo27.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frompy/demo28.py" beforeDir="false" afterPath="$PROJECT_DIR$/sjh_frompy/demo28.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frompy/pickle.txt" beforeDir="false" afterPath="$PROJECT_DIR$/sjh_frompy/pickle.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/func/demo12.py" beforeDir="false" afterPath="$PROJECT_DIR$/sjh_func/demo12.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module/demo22.py" beforeDir="false" afterPath="$PROJECT_DIR$/sjh_module/demo22.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module/demo23.py" beforeDir="false" afterPath="$PROJECT_DIR$/sjh_module/demo23.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oo/demo16.py" beforeDir="false" afterPath="$PROJECT_DIR$/sjh_oo/demo16.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oo/demo17.py" beforeDir="false" afterPath="$PROJECT_DIR$/sjh_oo/demo17.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oo/demo18.py" beforeDir="false" afterPath="$PROJECT_DIR$/sjh_oo/demo18.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oo/demo19.py" beforeDir="false" afterPath="$PROJECT_DIR$/sjh_oo/demo19.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oo/demo29.py" beforeDir="false" afterPath="$PROJECT_DIR$/sjh_oo/demo29.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oo/demo30.py" beforeDir="false" afterPath="$PROJECT_DIR$/sjh_oo/demo30.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oo/demo31.py" beforeDir="false" afterPath="$PROJECT_DIR$/sjh_oo/demo31.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oo/demo32.py" beforeDir="false" afterPath="$PROJECT_DIR$/sjh_oo/demo32.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oo/demo33.py" beforeDir="false" afterPath="$PROJECT_DIR$/sjh_oo/demo33.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oo/demo34.py" beforeDir="false" afterPath="$PROJECT_DIR$/sjh_oo/demo34.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oo/demo35.py" beforeDir="false" afterPath="$PROJECT_DIR$/sjh_oo/demo35.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oo/demo36.py" beforeDir="false" afterPath="$PROJECT_DIR$/sjh_oo/demo36.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/MANIFEST" beforeDir="false" afterPath="$PROJECT_DIR$/sjh_setup/MANIFEST" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/demo24.py" beforeDir="false" afterPath="$PROJECT_DIR$/sjh_setup/demo24.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/dist/mypackage-1.0.tar.gz" beforeDir="false" afterPath="$PROJECT_DIR$/sjh_setup/dist/mypackage-1.0.tar.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/sjh_setup/setup.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL - @localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL - @localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL - @localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="python: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL - @localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="python: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="person: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -24,17 +155,25 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="E:\Github\python\demo\.idea" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectId" id="1QzZNtA8MQwEfemN02Iz3hTwTUM" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="sqlite&#10;mysql" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="D:/Anaconda3/Scripts/yapf.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/sjh_csv" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -46,11 +185,17 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Github\python\demo\sjh_logging" />
       <recent name="E:\Github\python\demo\setup" />
       <recent name="E:\Github\python\demo\oo" />
       <recent name="E:\Github\python\demo\file" />
       <recent name="E:\Github\python\demo\func" />
-      <recent name="E:\Github\python\demo\frompy" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Github\python\demo\sjh_csv" />
+      <recent name="E:\Github\python\demo\network" />
+      <recent name="E:\Github\python\demo\city" />
+      <recent name="E:\Github\python\demo\mapreduce" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -65,8 +210,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.demo38">
-    <configuration name="demo19" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.demo59">
+    <configuration name="demo56" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="demo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -74,12 +219,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/oo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sjh_frompy" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/oo/demo19.py" />
+      <option name="SCRIPT_NAME" value="E:\Github\python\demo\sjh_logging\demo56.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -88,7 +233,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="demo35" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="demo57" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="demo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -96,12 +241,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/oo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sjh_frompy" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/oo/demo35.py" />
+      <option name="SCRIPT_NAME" value="E:\Github\python\demo\sjh_logging\demo57.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -110,7 +255,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="demo36" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="demo58" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="demo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -118,12 +263,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/oo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sjh_logging" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/oo/demo36.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sjh_logging/demo58.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -132,7 +277,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="demo37" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="demo59" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="demo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -140,34 +285,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basic" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sjh_scrapy" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic/demo37.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="demo38" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="demo" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basic" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic/demo38.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sjh_scrapy/demo59.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -177,21 +300,34 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.demo35" />
-      <item itemvalue="Python.demo36" />
-      <item itemvalue="Python.demo19" />
-      <item itemvalue="Python.demo37" />
-      <item itemvalue="Python.demo38" />
+      <item itemvalue="Python.demo56" />
+      <item itemvalue="Python.demo57" />
+      <item itemvalue="Python.demo58" />
+      <item itemvalue="Python.demo59" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.demo38" />
-        <item itemvalue="Python.demo37" />
-        <item itemvalue="Python.demo19" />
-        <item itemvalue="Python.demo36" />
-        <item itemvalue="Python.demo35" />
+        <item itemvalue="Python.demo59" />
+        <item itemvalue="Python.demo58" />
+        <item itemvalue="Python.demo57" />
+        <item itemvalue="Python.demo56" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="allServicesViewState">
+      <serviceView>
+        <treeState>
+          <expand>
+            <path>
+              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@6ccb71bf" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+            </path>
+          </expand>
+          <select />
+        </treeState>
+      </serviceView>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -216,11 +352,22 @@
       <workItem from="1569402441325" duration="12497000" />
       <workItem from="1569552091036" duration="7594000" />
       <workItem from="1569717002837" duration="5726000" />
+      <workItem from="1569824312284" duration="1203000" />
+      <workItem from="1570590367238" duration="6547000" />
+      <workItem from="1570631515058" duration="2928000" />
+      <workItem from="1570667977333" duration="24844000" />
+      <workItem from="1570722007384" duration="1524000" />
+      <workItem from="1570754374900" duration="14217000" />
+      <workItem from="1570801613621" duration="8330000" />
+      <workItem from="1570859294080" duration="2417000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.csv" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -247,42 +394,69 @@
     <SUITE FILE_PATH="coverage/demo$demo21.coverage" NAME="demo21 Coverage Results" MODIFIED="1569393359494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exception" />
     <SUITE FILE_PATH="coverage/demo$demo36.coverage" NAME="demo36 Coverage Results" MODIFIED="1569718507615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oo" />
     <SUITE FILE_PATH="coverage/demo$demo15.coverage" NAME="demo15 Coverage Results" MODIFIED="1568962341880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/demo$demo2.coverage" NAME="demo2 Coverage Results" MODIFIED="1568791628083" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/demo$demo2a.coverage" NAME="demo2a Coverage Results" MODIFIED="1568791475453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/demo$demo18.coverage" NAME="demo18 Coverage Results" MODIFIED="1569226937486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oo" />
     <SUITE FILE_PATH="coverage/demo$demo30.coverage" NAME="demo30 Coverage Results" MODIFIED="1569566194262" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oo" />
     <SUITE FILE_PATH="coverage/demo$demo13a.coverage" NAME="demo13a Coverage Results" MODIFIED="1568959054445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/demo$dmeo46.coverage" NAME="dmeo46 Coverage Results" MODIFIED="1570706346657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sjh_csv" />
     <SUITE FILE_PATH="coverage/demo$demo33.coverage" NAME="demo33 Coverage Results" MODIFIED="1569566895288" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oo" />
-    <SUITE FILE_PATH="coverage/demo$demo35.coverage" NAME="demo35 Coverage Results" MODIFIED="1569568697051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oo" />
+    <SUITE FILE_PATH="coverage/demo$reducedemo.coverage" NAME="reducedemo Coverage Results" MODIFIED="1570606338166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mapreduce" />
     <SUITE FILE_PATH="coverage/demo$demo3.coverage" NAME="demo3 Coverage Results" MODIFIED="1568788204176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/demo$pytest_in_demo33_py.coverage" NAME="pytest in demo33.py Coverage Results" MODIFIED="1569566843163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oo" />
+    <SUITE FILE_PATH="coverage/demo$demo12.coverage" NAME="demo12 Coverage Results" MODIFIED="1568943226143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/demo$demo43__1_.coverage" NAME="demo43 Coverage Results" MODIFIED="1570697974598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/database/mysqldemo" />
+    <SUITE FILE_PATH="coverage/demo$demo58.coverage" NAME="demo58 Coverage Results" MODIFIED="1570775128240" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sjh_logging" />
+    <SUITE FILE_PATH="coverage/demo$demo14.coverage" NAME="demo14 Coverage Results" MODIFIED="1568960654229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/demo$demo43.coverage" NAME="demo43 Coverage Results" MODIFIED="1570677694727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/database/mysql" />
+    <SUITE FILE_PATH="coverage/demo$demo7.coverage" NAME="demo7 Coverage Results" MODIFIED="1568857695919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/demo$factorymethod.coverage" NAME="factorymethod Coverage Results" MODIFIED="1569397151016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dp" />
+    <SUITE FILE_PATH="coverage/demo$demo49.coverage" NAME="demo49 Coverage Results" MODIFIED="1570720997313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sjh_web" />
+    <SUITE FILE_PATH="coverage/demo$demo20.coverage" NAME="demo20 Coverage Results" MODIFIED="1569379147358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exception" />
+    <SUITE FILE_PATH="coverage/demo$demo55.coverage" NAME="demo55 Coverage Results" MODIFIED="1570763320386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sjh_web" />
+    <SUITE FILE_PATH="coverage/demo$demo14__1_.coverage" NAME="demo14 (1) Coverage Results" MODIFIED="1568990674449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/frompy" />
+    <SUITE FILE_PATH="coverage/demo$demo37.coverage" NAME="demo37 Coverage Results" MODIFIED="1569722116783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basic" />
+    <SUITE FILE_PATH="coverage/demo$spider_demo.coverage" NAME="spider_demo Coverage Results" MODIFIED="1570867763542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sjh_scrapy/scrapy_demo/scrapy_demo/spiders" />
+    <SUITE FILE_PATH="coverage/demo$demo19.coverage" NAME="demo19 Coverage Results" MODIFIED="1569718626252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oo" />
+    <SUITE FILE_PATH="coverage/demo$demo48.coverage" NAME="demo48 Coverage Results" MODIFIED="1570713673610" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sjh_csv" />
+    <SUITE FILE_PATH="coverage/demo$demo6.coverage" NAME="demo6 Coverage Results" MODIFIED="1568854777495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/demo$demo25.coverage" NAME="demo25 Coverage Results" MODIFIED="1569421660581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/frompy" />
+    <SUITE FILE_PATH="coverage/demo$demo42.coverage" NAME="demo42 Coverage Results" MODIFIED="1570675647240" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/database/sqlite" />
+    <SUITE FILE_PATH="coverage/demo$demo31.coverage" NAME="demo31 Coverage Results" MODIFIED="1569566557623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oo" />
+    <SUITE FILE_PATH="coverage/demo$demo54.coverage" NAME="demo54 Coverage Results" MODIFIED="1570760833685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sjh_web" />
+    <SUITE FILE_PATH="coverage/demo$demo1.coverage" NAME="demo1 Coverage Results" MODIFIED="1568786669702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/demo$demo13.coverage" NAME="demo13 Coverage Results" MODIFIED="1568958975060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/demo$city_json.coverage" NAME="city_json Coverage Results" MODIFIED="1570670818783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/city" />
+    <SUITE FILE_PATH="coverage/demo$demo56.coverage" NAME="demo56 Coverage Results" MODIFIED="1570773247614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sjh_frompy" />
+    <SUITE FILE_PATH="coverage/demo$demo59.coverage" NAME="demo59 Coverage Results" MODIFIED="1570867963889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sjh_scrapy" />
+    <SUITE FILE_PATH="coverage/demo$demo53.coverage" NAME="demo53 Coverage Results" MODIFIED="1570760795383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sjh_web" />
+    <SUITE FILE_PATH="coverage/demo$demo47.coverage" NAME="demo47 Coverage Results" MODIFIED="1570710082842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sjh_csv" />
+    <SUITE FILE_PATH="coverage/demo$demo2.coverage" NAME="demo2 Coverage Results" MODIFIED="1568791628083" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/demo$demo35.coverage" NAME="demo35 Coverage Results" MODIFIED="1569568697051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oo" />
     <SUITE FILE_PATH="coverage/demo$demo29.coverage" NAME="demo29 Coverage Results" MODIFIED="1569565314629" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oo" />
     <SUITE FILE_PATH="coverage/demo$demo23.coverage" NAME="demo23 Coverage Results" MODIFIED="1569399018089" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/module" />
     <SUITE FILE_PATH="coverage/demo$demo38.coverage" NAME="demo38 Coverage Results" MODIFIED="1569722879433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basic" />
-    <SUITE FILE_PATH="coverage/demo$pytest_in_demo33_py.coverage" NAME="pytest in demo33.py Coverage Results" MODIFIED="1569566843163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oo" />
-    <SUITE FILE_PATH="coverage/demo$demo12.coverage" NAME="demo12 Coverage Results" MODIFIED="1568943226143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/demo$demo41.coverage" NAME="demo41 Coverage Results" MODIFIED="1570675006109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/database/sqlite" />
     <SUITE FILE_PATH="coverage/demo$demo8.coverage" NAME="demo8 Coverage Results" MODIFIED="1568858969168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/demo$demo5.coverage" NAME="demo5 Coverage Results" MODIFIED="1568794473512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/demo$demo44.coverage" NAME="demo44 Coverage Results" MODIFIED="1570698075160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/database/mysqldemo" />
+    <SUITE FILE_PATH="coverage/demo$mrdemo.coverage" NAME="mrdemo Coverage Results" MODIFIED="1570631770623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mapreduce" />
     <SUITE FILE_PATH="coverage/demo$demo26.coverage" NAME="demo26 Coverage Results" MODIFIED="1569428867707" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/frompy" />
-    <SUITE FILE_PATH="coverage/demo$demo14.coverage" NAME="demo14 Coverage Results" MODIFIED="1568960654229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/demo$demo50.coverage" NAME="demo50 Coverage Results" MODIFIED="1570721068640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sjh_web" />
+    <SUITE FILE_PATH="coverage/demo$demo40.coverage" NAME="demo40 Coverage Results" MODIFIED="1570670429786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/frompy" />
     <SUITE FILE_PATH="coverage/demo$demo17.coverage" NAME="demo17 Coverage Results" MODIFIED="1569225342970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oo" />
-    <SUITE FILE_PATH="coverage/demo$demo4.coverage" NAME="demo4 Coverage Results" MODIFIED="1568791862015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/demo$demo7.coverage" NAME="demo7 Coverage Results" MODIFIED="1568857695919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/demo$factorymethod.coverage" NAME="factorymethod Coverage Results" MODIFIED="1569397151016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dp" />
+    <SUITE FILE_PATH="coverage/demo$demo4.coverage" NAME="demo4 Coverage Results" MODIFIED="1570608131496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basic" />
     <SUITE FILE_PATH="coverage/demo$demo34.coverage" NAME="demo34 Coverage Results" MODIFIED="1569568294887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oo" />
-    <SUITE FILE_PATH="coverage/demo$demo20.coverage" NAME="demo20 Coverage Results" MODIFIED="1569379147358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exception" />
-    <SUITE FILE_PATH="coverage/demo$demo14__1_.coverage" NAME="demo14 (1) Coverage Results" MODIFIED="1568990674449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/frompy" />
-    <SUITE FILE_PATH="coverage/demo$demo37.coverage" NAME="demo37 Coverage Results" MODIFIED="1569722116783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basic" />
     <SUITE FILE_PATH="coverage/demo$demo28.coverage" NAME="demo28 Coverage Results" MODIFIED="1569427105556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/frompy" />
     <SUITE FILE_PATH="coverage/demo$demo11.coverage" NAME="demo11 Coverage Results" MODIFIED="1569399470350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/frompy" />
+    <SUITE FILE_PATH="coverage/demo$demo52.coverage" NAME="demo52 Coverage Results" MODIFIED="1570758147666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sjh_web" />
     <SUITE FILE_PATH="coverage/demo$demo9.coverage" NAME="demo9 Coverage Results" MODIFIED="1568860428071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/demo$demo16.coverage" NAME="demo16 Coverage Results" MODIFIED="1569228882131" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oo" />
-    <SUITE FILE_PATH="coverage/demo$demo19.coverage" NAME="demo19 Coverage Results" MODIFIED="1569718626252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oo" />
-    <SUITE FILE_PATH="coverage/demo$demo6.coverage" NAME="demo6 Coverage Results" MODIFIED="1568854777495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/demo$demo45.coverage" NAME="demo45 Coverage Results" MODIFIED="1570705045419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sjh_csv" />
     <SUITE FILE_PATH="coverage/demo$demo10.coverage" NAME="demo10 Coverage Results" MODIFIED="1568990364323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/container" />
-    <SUITE FILE_PATH="coverage/demo$demo25.coverage" NAME="demo25 Coverage Results" MODIFIED="1569421660581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/frompy" />
-    <SUITE FILE_PATH="coverage/demo$demo31.coverage" NAME="demo31 Coverage Results" MODIFIED="1569566557623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oo" />
+    <SUITE FILE_PATH="coverage/demo$demo57.coverage" NAME="demo57 Coverage Results" MODIFIED="1570774289008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sjh_frompy" />
+    <SUITE FILE_PATH="coverage/demo$demo51.coverage" NAME="demo51 Coverage Results" MODIFIED="1570723509292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sjh_web" />
     <SUITE FILE_PATH="coverage/demo$demo22.coverage" NAME="demo22 Coverage Results" MODIFIED="1569398365901" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/module" />
-    <SUITE FILE_PATH="coverage/demo$demo1.coverage" NAME="demo1 Coverage Results" MODIFIED="1568786669702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/demo$demo13.coverage" NAME="demo13 Coverage Results" MODIFIED="1568958975060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/demo$mapdemo.coverage" NAME="mapdemo Coverage Results" MODIFIED="1570608988091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mapreduce" />
+    <SUITE FILE_PATH="coverage/demo$demo39.coverage" NAME="demo39 Coverage Results" MODIFIED="1570605125279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/frompy" />
   </component>
 </project>
