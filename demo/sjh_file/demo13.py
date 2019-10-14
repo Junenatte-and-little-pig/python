@@ -10,6 +10,7 @@ with open('test.txt', 'r', encoding='utf-8') as f:
         print(line, end="")
 print()
 
-with open('test.txt', encoding='utf-8') as origin, open('backup.txt', 'w', encoding='utf-8') as dest:
+with open('test.txt', encoding='utf-8') as origin, open('backup.txt', 'w',
+                                                        encoding='utf-8') as dest:
     for line in origin:
         dest.write(line)

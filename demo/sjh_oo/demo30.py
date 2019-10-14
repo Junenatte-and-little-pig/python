@@ -10,6 +10,6 @@ print(ObjectClass)
 print(ObjectClass())
 help(ObjectClass)
 ObjectClass().show()
-ObjectClass.name="南京师范"
-print(hasattr(ObjectClass,"name"))
+ObjectClass.name = "南京师范"
+print(hasattr(ObjectClass, "name"))
 print(ObjectClass.name)

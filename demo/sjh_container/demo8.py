@@ -18,7 +18,8 @@ nameSet2 = {"张三", "李四", "王五", "赵六", "孙七", "钱八", "周九"
 print(nameSet2)
 print(nameSet.difference(nameSet2))  # in nameSet and not in nameSet2
 print(nameSet2.difference(nameSet))  # in nameSet2 and not in nameSet
-print(nameSet.symmetric_difference(nameSet2))  # (in nameSet and not in nameSet2) or (in nameSet2 and not in nameSet)
+print(nameSet.symmetric_difference(
+    nameSet2))  # (in nameSet and not in nameSet2) or (in nameSet2 and not in nameSet)
 print(nameSet.intersection(nameSet2))
 print(nameSet.union(nameSet2))
 print(nameSet.issubset(nameSet2))

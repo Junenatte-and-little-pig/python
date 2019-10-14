@@ -8,5 +8,5 @@ except (IOError, ZeroDivisionError) as e:  # 仅代表对多异常采取相同�
     print(e)
 else:
     print("no exception")
-finally: # 有无异常都会被执行
+finally:  # 有无异常都会被执行
     print("hello")

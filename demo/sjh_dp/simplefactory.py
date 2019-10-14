@@ -45,5 +45,5 @@ vehicles = [VehicleFactory.create_vehicle('car', '宝马', '红色', 5, 0),
             VehicleFactory.create_vehicle('car', '奥迪', '黑色', 5, 0),
             VehicleFactory.create_vehicle('truck', '解放', '蓝色', 0, 10)]
 for v in vehicles:
-    print(v,end="\t")
+    print(v, end="\t")
     print(type(v))

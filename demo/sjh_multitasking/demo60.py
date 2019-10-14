@@ -14,5 +14,4 @@ if __name__ == '__main__':
         print('process start')
         p.start()  # 创建进程
         p.join()  # 同步进程
-        p.close()  # 结束进程
         print('Process close')

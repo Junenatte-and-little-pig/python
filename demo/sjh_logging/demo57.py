@@ -1,5 +1,6 @@
 # -*- encoding: utf-8 -*-
 import logging
+
 '''
 %(levelno)s：打印日志级别的数值
 %(levelname)s：打印日志级别的名称
@@ -28,7 +29,7 @@ class TextLogging(object):
         self.filename = "log.txt"
         self.format = "%(asctime)-12s %(levelname)-8s %(name)-10s %(message)-12s"
         logging.basicConfig(level=logging.INFO, filename=self.filename,
-                            format=self.format,filemode='w')
+                            format=self.format, filemode='w')
 
 
 textLogging = TextLogging()

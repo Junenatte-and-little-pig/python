@@ -69,4 +69,4 @@ print("__add_:%s" % str(bc))
 print(bc["b"])
 for p in bc:
     print(p)
-print(isinstance(bc,Iterable))
+print(isinstance(bc, Iterable))

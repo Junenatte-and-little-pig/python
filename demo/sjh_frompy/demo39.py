@@ -9,7 +9,7 @@ def show(*args, **kwargs):
     print(kwargs)
 
 
-show1 = functools.partial(show, 1, 2, 3) # 从左至右固定某些参数
+show1 = functools.partial(show, 1, 2, 3)  # 从左至右固定某些参数
 show()
 show1()
 show1(name="zhangsan", age="18")

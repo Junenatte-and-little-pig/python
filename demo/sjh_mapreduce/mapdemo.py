@@ -12,7 +12,7 @@ def show_map():
         for line in f:
             # words = line.split()
             words = re.split(r"[\[\s\]-]", line)
-            words=[w for w in words if w != '']
+            words = [w for w in words if w != '']
             r = map(map_split, words)
             for w, c in list(r):
                 newlist.append((w, c))

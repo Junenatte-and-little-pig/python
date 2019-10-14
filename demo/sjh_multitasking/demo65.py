@@ -1,6 +1,6 @@
 # -*- encoding: utf-8 -*-
-from threading import Thread
 import time
+from threading import Thread
 
 
 class Sayhi(Thread):

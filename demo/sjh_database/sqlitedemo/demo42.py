@@ -6,7 +6,7 @@ try:
     # 游标对象进行增删改查操作
     cursor = conn.cursor()
     sql_select = ("select id,name,age,salary from user")
-    result=cursor.execute(sql_select)
+    result = cursor.execute(sql_select)
     print(result.fetchall())
     # 操作结束后要通过连接对象进行提交
     conn.commit()

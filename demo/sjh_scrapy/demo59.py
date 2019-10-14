@@ -1,6 +1,7 @@
 # -*- encoding: utf-8 -*-
 from lxml import etree
-baidu_src='''
+
+baidu_src = '''
 <html>
     <head text="hello">
         <meta http-equiv="content-type" content="text/html;charset=utf-8">
@@ -69,7 +70,7 @@ baidu_src='''
     </body>
 </html>
 '''
-html=etree.HTML(baidu_src)  # == html.xpath('.')[0]
+html = etree.HTML(baidu_src)  # == html.xpath('.')[0]
 # print(etree.tostring(html).decode('utf-8'))
 '''
 位置路径表达式
@@ -133,36 +134,52 @@ text()  内容文本
 [tag='text'] 	选取所有具有指定元素并且文本内容是text节点
 '''
 
-print(html.xpath('*'))  # [<Element head at 0x1a99a417788>, <Element body at 0x1a99a417848>]
+print(html.xpath(
+    '*'))  # [<Element head at 0x1a99a417788>, <Element body at 0x1a99a417848>]
 print(html.xpath('head'))  # [<Element head at 0x1a99a417788>]
 print(html.xpath('/*'))  # [<Element html at 0x1a99a385708>]
 print(html.xpath('/html'))  # [<Element html at 0x1a99a385708>]
-print(html.xpath('/html/*'))  # [<Element head at 0x1a99a417848>, <Element body at 0x1a99a417688>]
-print(html.xpath('//meta'))  # [<Element meta at 0x1f806177748>, <Element meta at 0x1f806177fc8>, <Element meta at 0x1f806177648>, <Element meta at 0x1f8061777c8>]
+print(html.xpath(
+    '/html/*'))  # [<Element head at 0x1a99a417848>, <Element body at 0x1a99a417688>]
+print(html.xpath(
+    '//meta'))  # [<Element meta at 0x1f806177748>, <Element meta at 0x1f806177fc8>, <Element meta at 0x1f806177648>, <Element meta at 0x1f8061777c8>]
 print(html.xpath('/html/head//*'))
 print(html.xpath('.'))  # [<Element html at 0x232262b5648>]
-print(html.xpath('./*'))  # [<Element head at 0x211f9d07488>, <Element body at 0x211f9d07708>]
+print(html.xpath(
+    './*'))  # [<Element head at 0x211f9d07488>, <Element body at 0x211f9d07708>]
 print(html.xpath('head')[0].xpath('..'))  # [<Element html at 0x221e4904908>]
-print(html.xpath('/html/head/meta')[0].xpath('@*'))  # ['content-type', 'text/html;charset=utf-8']
-print(html.xpath('//*/@content'))  # ['text/html;charset=utf-8', 'IE=Edge', 'always', '#2932e1']
+print(html.xpath('/html/head/meta')[0].xpath(
+    '@*'))  # ['content-type', 'text/html;charset=utf-8']
+print(html.xpath(
+    '//*/@content'))  # ['text/html;charset=utf-8', 'IE=Edge', 'always', '#2932e1']
 print(html.xpath('//*/@content="text/html;charset=utf-8"'))  # True
-print(html.xpath('//*/meta[@content="text/html;charset=utf-8"]'))  # [<Element meta at 0x252193176c8>]
-print(html.xpath('//*/meta[@content="text/html;charset=utf-8"]/..'))  # [<Element head at 0x1f6d7368848>]
-print(html.xpath('//*/meta[@content="text/html;charset=utf-8"]/../@*'))  # ['hello']
-print(html.xpath('/html/body/div/div/div/a'))  # [<Element a at 0x296e27c9508>, <Element a at 0x296e27c98c8>, <Element a at 0x296e27c9a08>, <Element a at 0x296e27cc548>, <Element a at 0x296e27cc588>, <Element a at 0x296e27cc5c8>, <Element a at 0x296e27cc288>, <Element a at 0x296e27cc308>, <Element a at 0x296e27cc608>]
-print(html.xpath('/html/body/div/div/div/a[1]'))  # [<Element a at 0x1d467949988>]
-print(html.xpath('/html/body/div/div/div/a[last()]'))  # [<Element a at 0x1d467949948>]
-print(html.xpath('/html/body/div/div/div/a[position()<3]'))  # [<Element a at 0x1d467949988>, <Element a at 0x1d467949808>]
+print(html.xpath(
+    '//*/meta[@content="text/html;charset=utf-8"]'))  # [<Element meta at 0x252193176c8>]
+print(html.xpath(
+    '//*/meta[@content="text/html;charset=utf-8"]/..'))  # [<Element head at 0x1f6d7368848>]
+print(html.xpath(
+    '//*/meta[@content="text/html;charset=utf-8"]/../@*'))  # ['hello']
+print(html.xpath(
+    '/html/body/div/div/div/a'))  # [<Element a at 0x296e27c9508>, <Element a at 0x296e27c98c8>, <Element a at 0x296e27c9a08>, <Element a at 0x296e27cc548>, <Element a at 0x296e27cc588>, <Element a at 0x296e27cc5c8>, <Element a at 0x296e27cc288>, <Element a at 0x296e27cc308>, <Element a at 0x296e27cc608>]
+print(
+    html.xpath('/html/body/div/div/div/a[1]'))  # [<Element a at 0x1d467949988>]
+print(html.xpath(
+    '/html/body/div/div/div/a[last()]'))  # [<Element a at 0x1d467949948>]
+print(html.xpath(
+    '/html/body/div/div/div/a[position()<3]'))  # [<Element a at 0x1d467949988>, <Element a at 0x1d467949808>]
 print(html.xpath('/html/body/div/div/div/node()'))  # 包括子节点及内容文本
 print(html.xpath('/html/body/div/div/div/a="贴吧"'))  # True
-print(html.xpath('/html/body/div/div/div[a]'))  # [<Element div at 0x144316a7948>]
-print(html.xpath('/html/body/div/div/div[a="贴吧"]'))  # [<Element div at 0x19ccb3377c8>]
-print(html.xpath('/html/body/div/div/div/a[text()="贴吧"]'))  # [<Element a at 0x17261169a08>]
-print(html.xpath('/html/body/div/div/div/a/text()'))  # ['资讯', '贴吧', '知道', '音乐', '图片', '视频', '地图', '文库', '更多»']
+print(
+    html.xpath('/html/body/div/div/div[a]'))  # [<Element div at 0x144316a7948>]
+print(html.xpath(
+    '/html/body/div/div/div[a="贴吧"]'))  # [<Element div at 0x19ccb3377c8>]
+print(html.xpath(
+    '/html/body/div/div/div/a[text()="贴吧"]'))  # [<Element a at 0x17261169a08>]
+print(html.xpath(
+    '/html/body/div/div/div/a/text()'))  # ['资讯', '贴吧', '知道', '音乐', '图片', '视频', '地图', '文库', '更多»']
 print(html.xpath('body'))  # [<Element body at 0x14cdbbb7588>]
 print(html.xpath('body')[0])  # <Element body at 0x19485df7548>
 print(html.xpath('body')[0].tag)  # body
 print(html.xpath('body')[0].attrib)  # {'link': '#0000cc'}
 print(html.xpath('body')[0].get('link'))  # #0000cc
 print(html.xpath('body')[0].text)  # hello
-

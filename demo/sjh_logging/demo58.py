@@ -1,12 +1,13 @@
 # -*- encoding: utf-8 -*-
-import logging
 import getpass
+import logging
 
 
 class TextLoggingHandler(object):
     def __init__(self):
         self.filename = "loghandler.txt"
-        self.format = logging.Formatter("%(asctime)-12s %(levelname)-8s %(name)-10s %(message)-12s")
+        self.format = logging.Formatter(
+            "%(asctime)-12s %(levelname)-8s %(name)-10s %(message)-12s")
         # 获取logger对象
         self.logger = logging.getLogger(getpass.getuser())
         self.logger.setLevel(logging.INFO)
